@@ -1,7 +1,4 @@
 
-
-
-# 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hazalergin&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
